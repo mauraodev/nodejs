@@ -1,3 +1,3 @@
-# nodejs
+# Node.js
 
-Ambiente de estudo Node.js
+Ambiente de estudo sobre Node.js
